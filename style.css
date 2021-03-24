@@ -1,0 +1,16 @@
+* {
+    background-color: dimgray;
+}
+
+body {
+    color: red;
+}
+
+h1 {
+    color: white;
+}
+
+#mapid {
+    height: 600px;
+    width: 800px;
+}
