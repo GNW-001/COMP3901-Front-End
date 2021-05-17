@@ -1,0 +1,67 @@
+body {
+    background-image: url("../images/background1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.cardWidth {
+    width: 18rem;
+    display: inline-block;
+    margin-right: 1rem;
+}
+
+.cardContainer {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.breadcrumbThing {
+    margin-left: 7rem;
+}
+
+.map-canvas {
+    min-height: 600px;
+    min-height: 600px;
+}
+
+
+.radarChart {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.menu {
+    padding-bottom: 3rem;
+}
+
+.resources{
+    color: gray;
+}
+
+
+/* Side-bar Stuff*/
+
+#wrapper {
+    display: flex;
+}
+
+#offcanvasNav {
+    min-width: 300px;
+    max-width: 300px;
+}
+
+.daline {
+    padding-bottom: 2rem;
+}
+
+.mainMenu {
+    padding-top: 0.5rem;
+}
+
+i {
+    min-width: 24px;
+    text-align: center;
+    vertical-align: central;
+}
